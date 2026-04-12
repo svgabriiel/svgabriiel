@@ -1,7 +1,7 @@
 <!-- BANNER ANIMADO -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!;I'm+Gabriel+Bispo" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!" />
 </p>
 
 
@@ -11,20 +11,13 @@
 * 💻 Desenvolvedor em formação
 * 🎯 + 💻 = 💡
 
----
+
 ## 🌐 Redes Sociais:
 
 [![Instagram](https://img.shields.io/badge/Instagram-9F00FF?style=flat&logo=instagram&logoColor=white)](https://instagram.com/gabriielcoding)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-2F00FF?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/svagbriiel)
 
----
 
-## 🧠 Atualmente estudando
-
-* ☕ Java (POO)
-* ⚙️ Estrutura de Dados (C++)
-
----
 
 ## 💻Tech Stack:  
 
@@ -54,12 +47,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svgabriiel&layout=compact&theme=tokyonight"/>
 </p> -->
 ---
-## 🏆 Conquistas
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=svgabriiel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p> 
-
+  <img src="https://github-readme-stats.vercel.app/api?username=svgabriiel&show_icons=true&theme=onedark&count_private=true&rank_icon=github" height="170px" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.
 ## 📫 Contato
 
 * Email: [svgabriiel@gmail.com](mailto:svgabriiel@gmail.com)
