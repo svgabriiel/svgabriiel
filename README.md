@@ -45,14 +45,6 @@
 </p>
 ---
 
-## 📈 Atividade
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=svgabriiel&theme=tokyo-night" />
-</p>
-
----
-
 ## 🏆 Conquistas
 
 <p align="center">
