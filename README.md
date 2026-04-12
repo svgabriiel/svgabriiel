@@ -6,11 +6,12 @@
 
 
 # Gabriel Bispo
-
 * 🎓 Sistemas de Informação - UFS
 * 💻 Desenvolvedor em formação
 * 🎯 + 💻 = 💡
-
+Sobre mim:
+  ...
+---
 
 ## 🌐 Redes Sociais:
 
