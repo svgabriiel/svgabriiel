@@ -1,16 +1,72 @@
-## Hi there 👋
+<!-- BANNER ANIMADO -->
 
-<!--
-**svgabriiel/svgabriiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Gabriel+Silva;Estudante+de+Sistemas+de+Informação;Focado+em+Java+e+Estrutura+de+Dados;Em+busca+da+primeira+oportunidade" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Gabriel Bispo
+
+🎓 Sistemas de Informação - UFS
+💻 Desenvolvedor em formação
+🎯 + 💻 = 💡
+
+---
+
+## 🧠 Atualmente estudando
+
+* ☕ Java (POO)
+* ⚙️ Estrutura de Dados (C++)
+* 🧩 Resolução de problemas e algoritmos
+
+---
+
+## 🚀 Tecnologias
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="C++" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+</div>
+
+---
+
+## 🧩 Projetos em destaque
+
+* 🔗 Lista Encadeada em C++
+* 🔗 Sistema de Empréstimo em Java
+* 🔗 Exercícios de Algoritmos
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Atividade
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=tokyo-night" />
+</p>
+
+---
+
+## 🏆 Conquistas
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+## 📫 Contato
+
+* Email: [seuemail@email.com](mailto:seuemail@email.com)
+* LinkedIn: (colocar depois)
+
+---
