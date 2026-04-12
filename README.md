@@ -15,8 +15,9 @@
 ---
 ## 🌐 Redes Sociais:
 
-[![Instagram](https://img.shields.io/badge/Instagram-9F00FF?style=flat&logo=instagram&logoColor=white)](https://instagram.com/gabriiel.codex)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/svagbriiel)
+[![Instagram](https://img.shields.io/badge/Instagram-9F00FF?style=flat&logo=instagram&logoColor=white)](https://instagram.com/gabriielcoding)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4F00FF?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/svagbriiel)
+
 ---
 
 ## 🧠 Atualmente estudando
