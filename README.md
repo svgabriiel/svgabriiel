@@ -9,8 +9,11 @@
 * 🎓 Sistemas de Informação - UFS
 * 💻 Desenvolvedor em formação
 * 🎯 + 💻 = 💡
-Sobre mim:
-  ...
+
+---
+
+> 🚀 **Sobre mim:** > Sou estudante de Sistemas de Informação apaixonado por desenvolver soluções tecnológicas. 
+> Atualmente, foco meus estudos em **C++, Java e Estrutura de Dados**, explorando desde a lógica pura até interfaces gráficas com **Raylib**.
 
 ---
 
