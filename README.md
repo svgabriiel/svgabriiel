@@ -1,9 +1,8 @@
 <!-- BANNER ANIMADO -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!; Eu+sou+Gabriel+Bispo;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!;Eu+sou+Gabriel+Bispo" />
 </p>
-
 ---
 
 # Gabriel Bispo
