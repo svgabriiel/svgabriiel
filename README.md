@@ -24,6 +24,13 @@
 
 ---
 
+## 📫 Contato
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:svgabriiel@gmail.com)
+
+---
+
+
 ## 💻Tech Stack:  
 
 <div style="display: flax; gap: 10px;">
@@ -44,12 +51,15 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=svgabriiel&theme=tokyonight&hide_border=true" />
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=svgabriiel&theme=tokyonight&hide_border=true"/>
 </p>
 
 
-## 📫 Contato
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:svgabriiel@gmail.com)
+<!-- <p align="center"> ERROS
+  <img height="180em" src="https://streak-stats.vercel.app/api?username=svgabriiel&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"/>
+  <img height="180em" src="https://github-stats.vercel.app/api/top-langs/?username=svgabriiel&layout=compact&langs_count=16&theme=tokyonight"/>
+</p> -->
+
 
