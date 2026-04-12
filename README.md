@@ -11,6 +11,7 @@
 * 🎯 + 💻 = 💡
 Sobre mim:
   ...
+
 ---
 
 ## 🌐 Redes Sociais:
@@ -18,7 +19,7 @@ Sobre mim:
 [![Instagram](https://img.shields.io/badge/Instagram-9F00FF?style=flat&logo=instagram&logoColor=white)](https://instagram.com/gabriielcoding)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-2F00FF?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/svagbriiel)
 
-
+---
 
 ## 💻Tech Stack:  
 
@@ -32,8 +33,9 @@ Sobre mim:
 
 ## 🧩 Projetos em destaque
 
-* 🔗 Sistema de escolas com PDCurses GUI (Grupo Acadêmico)
-* 🔗 Jogo RestaUm feito com Railyb GUI (Grupo Acadêmico)  
+* 🏛️ **[Sistema de Escolas](LINK_DO_REPOSITORIO)** Desenvolvido em C com interface **PDCurses**. Projeto acadêmico focado em gerenciamento e manipulação de dados.
+
+* 🕹️ **[Jogo Resta Um](LINK_DO_REPOSITORIO)** Implementado em C++ utilizando a biblioteca **Raylib**. Um clássico puzzle com interface gráfica fluida e lógica de jogo otimizada.
 
 ---
 
@@ -44,12 +46,6 @@ Sobre mim:
 </p>
 
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=svgabriiel&show_icons=true&theme=tokyonight&count_private=true&rank_icon=github" height="175px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svgabriiel&theme=tokyonight&layout=compact&langs_count=8" height="175px" alt="Most Used Languages" />
-</p>
 ## 📫 Contato
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:svgabriiel@gmail.com)
