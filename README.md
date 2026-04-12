@@ -33,7 +33,7 @@
 
 ## 🧩 Projetos em destaque
 
-* 🔗 Sistema de escolas com PDCursos GUI (Grupo Acadêmico)
+* 🔗 Sistema de escolas com PDCurses GUI (Grupo Acadêmico)
 * 🔗 Jogo RestaUm feito com Railyb GUI (Grupo Acadêmico)  
 
 ---
@@ -41,22 +41,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?svgabriiel=svgabriiel&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?svgabriiel=svgabriiel&layout=compact&theme=tokyonight"/>
 </p>
 
 
 ## 📈 Atividade
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?svgabriiel=svgabriiel&theme=tokyo-night" />
 </p>
 
 
 ## 🏆 Conquistas
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?svgabriiel=svgabriiel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ## 📫 Contato
