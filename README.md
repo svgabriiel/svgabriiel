@@ -41,10 +41,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=svgabriiel&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svgabriiel&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=svgabriiel&show_icons=true&theme=tokyonight&cache_seconds=60"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svgabriiel&layout=compact&theme=tokyonight&cache_seconds=60"/>
 </p>
-
 ---
 
 ## 📈 Atividade
