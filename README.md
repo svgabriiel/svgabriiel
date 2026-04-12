@@ -1,7 +1,7 @@
 <!-- BANNER ANIMADO -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Gabriel+Silva;Estudante+de+Sistemas+de+Informação;Focado+em+Java+e+Estrutura+de+Dados;Em+busca+da+primeira+oportunidade" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Gabriel+Bispo;Estudante+de+Sistemas+de+Informação;Focado+em+Java+e+Estrutura+de+Dados;Em+busca+da+primeira+oportunidade" />
 </p>
 
 ---
@@ -18,11 +18,10 @@
 
 * ☕ Java (POO)
 * ⚙️ Estrutura de Dados (C++)
-* 🧩 Resolução de problemas e algoritmos
 
 ---
 
-## 🚀 Tecnologias
+##💻 Tech Stack:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C++" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
@@ -33,9 +32,8 @@
 
 ## 🧩 Projetos em destaque
 
-* 🔗 Lista Encadeada em C++
-* 🔗 Sistema de Empréstimo em Java
-* 🔗 Exercícios de Algoritmos
+* 🔗 Sistema de escolas com PDCursos GUI (Grupo Acadêmico)
+* 🔗 Jogo RestaUm feito com Railyb GUI (Grupo Acadêmico)  
 
 ---
 
@@ -46,7 +44,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/>
 </p>
 
----
 
 ## 📈 Atividade
 
@@ -54,7 +51,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=tokyo-night" />
 </p>
 
----
 
 ## 🏆 Conquistas
 
@@ -62,11 +58,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
----
-
 ## 📫 Contato
 
-* Email: [seuemail@email.com](mailto:seuemail@email.com)
-* LinkedIn: (colocar depois)
+* Email: [svgabriiel@gmail.com](mailto:svgabriiel@gmail.com)
 
----
