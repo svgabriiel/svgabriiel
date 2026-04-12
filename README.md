@@ -56,12 +56,14 @@
 </p> -->
 ---
 ## 🏆 Conquistas
+## 🏆 Conquistas
 
-<p align="left">
+[![Conquistas do GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=svgabriiel&theme=onedark)](https://github.com/svgabriiel)
+<!-- <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=svgabriiel&theme=onedark&no-frame=true&margin-w=15" alt="trophy" />
   </a>
-</p>
+</p> -->
 <!-- ## 🏆 Conquistas
 
 <!-- <p align="center">
