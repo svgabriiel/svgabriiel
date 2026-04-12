@@ -8,9 +8,9 @@
 
 # 👋 Gabriel Bispo
 
-🎓 Sistemas de Informação - UFS
-💻 Desenvolvedor em formação
-🎯 + 💻 = 💡
+* 🎓 Sistemas de Informação - UFS
+* 💻 Desenvolvedor em formação
+* 🎯 + 💻 = 💡
 
 ---
 
@@ -45,6 +45,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svgabriiel&layout=compact&theme=tokyonight"/>
 </p>
 
+---
 
 ## 📈 Atividade
 
@@ -52,13 +53,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=svgabriiel&theme=tokyo-night" />
 </p>
 
+---
 
 ## 🏆 Conquistas
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=svgabriiel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
-
 ## 📫 Contato
 
 * Email: [svgabriiel@gmail.com](mailto:svgabriiel@gmail.com)
