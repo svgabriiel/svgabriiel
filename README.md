@@ -41,22 +41,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?svgabriiel=svgabriiel&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?svgabriiel=svgabriiel&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=svgabriiel&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svgabriiel&layout=compact&theme=tokyonight"/>
 </p>
 
 
 ## 📈 Atividade
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?svgabriiel=svgabriiel&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=svgabriiel&theme=tokyo-night" />
 </p>
 
 
 ## 🏆 Conquistas
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?svgabriiel=svgabriiel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=svgabriiel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ## 📫 Contato
