@@ -1,7 +1,7 @@
 <!-- BANNER ANIMADO -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Gabriel+Bispo;Estudante+de+Sistemas+de+Informação;Focado+em+Java+e+Estrutura+de+Dados;Em+busca+da+primeira+oportunidade" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!; Eu+sou+Gabriel+Bispo;" />
 </p>
 
 ---
@@ -16,7 +16,7 @@
 ## 🌐 Redes Sociais:
 
 [![Instagram](https://img.shields.io/badge/Instagram-9F00FF?style=flat&logo=instagram&logoColor=white)](https://instagram.com/gabriielcoding)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4F00FF?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/svagbriiel)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-2F00FF?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/svagbriiel)
 
 ---
 
