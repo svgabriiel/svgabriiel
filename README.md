@@ -51,17 +51,17 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=svgabriiel&theme=tokyonight&hide_border=true"/>
 </p>
 
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
+<<p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=svgabriiel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=svgabriiel&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas"/>
-</p>
+</p> 
 
 ---
 
