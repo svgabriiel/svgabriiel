@@ -59,16 +59,9 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=svgabriiel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=svagbriiel&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=svgabriiel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=svgabriiel&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas"/>
 </p>
 
 ---
-
-## 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=svgabriiel&theme=dracula" alt="GitHub Streak" />
-</div>
-
 
