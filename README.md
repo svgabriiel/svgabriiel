@@ -12,7 +12,7 @@
 
 ---
 
-> 🚀 **Sobre mim:** > Sou estudante de Sistemas de Informação apaixonado por desenvolver soluções tecnológicas. 
+> 🚀 **Sobre mim:** > Sou estudante de Sistemas de Informação, gosto de desenvolver soluções tecnológicas. 
 > Atualmente, foco meus estudos em **English, C++, Java e Estrutura de Dados**, explorando desde a lógica pura até interfaces gráficas com **Raylib**.
 
 ---
