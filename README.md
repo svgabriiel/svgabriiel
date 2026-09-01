@@ -57,7 +57,7 @@
   <img src="https://streak-stats.demolab.com?user=svgabriiel&theme=tokyonight&hide_border=true"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=svgabriiel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=svgabriiel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/> -->
   <img src="https://github-readme-stats-five-delta-47.vercel.app/api/top-langs/?username=svgabriiel&layout=donut&langs_count=7&theme=tokyonight&exclude_repo=github-readme-stats" alt="Linguagens mais usadas"/>
 </p>  
 
