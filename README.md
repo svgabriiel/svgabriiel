@@ -7,7 +7,7 @@
 
 # Gabriel Bispo
 * 🎓 Sistemas de Informação - UFS
-* 💻 Desenvolvedor em formação
+* 💻 Desenvolvedor
 * 🎯 + 💻 = 💡
 
 ---
