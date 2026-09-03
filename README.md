@@ -45,7 +45,7 @@
 
 * 🏛️ **[Sistema de Escolas](LINK_DO_REPOSITORIO)** Desenvolvido em C com interface **PDCurses**. Projeto acadêmico focado em gerenciamento e manipulação de dados.
 
-* 🕹️ **[Jogo Resta Um](LINK_DO_REPOSITORIO)** Implementado em C++ utilizando a biblioteca **Raylib**. Um clássico puzzle com interface gráfica fluida e lógica de jogo otimizada.
+* 🕹️ **[Jogo Resta Um](https://github.com/svgabriiel/RestaUm)** Implementado em C++ utilizando a biblioteca **Raylib**. Um clássico puzzle com interface gráfica fluida e lógica de jogo otimizada.
 
 ---
 
